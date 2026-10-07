@@ -6,10 +6,10 @@ I build AI systems end to end: APIs, databases, retrieval, and voice/agent inter
 
 ## What I've built
 
-- **[Alzheimer's Companion](https://github.com/Mansi09022004/alzheimers-companion)**: full-stack AI platform for dementia patients and caregivers (FastAPI, PostgreSQL/pgvector, RAG, face recognition, React / React Native, 150+ tests).
-- **[Friday](https://github.com/Mansi09022004/friday-ai-agent)**: real-time voice AI agent with memory and MCP tools (LiveKit Agents, Gemini Realtime, mem0).
-- **[Code2Video AI Studio](https://github.com/Mansi09022004/code2video-ai-studio)**: turns code into explanation videos (Flask, Groq LLaMA 3.3 70B, MoviePy). Co-authored a paper published in Springer LNNS.
-- **[BetterBite](https://betterbite-store.vercel.app)**: D2C protein snacks store with a RAG support chatbot (React, TypeScript, Supabase pgvector, Razorpay).
+- **Alzheimer's Companion** ([Live](https://alz-patient.vercel.app/) · [Code](https://github.com/Mansi09022004/alzheimers-companion)): full-stack AI platform for dementia patients and caregivers (FastAPI, PostgreSQL/pgvector, RAG, face recognition, React / React Native, 150+ tests).
+- **Friday** ([Code](https://github.com/Mansi09022004/friday-ai-agent)): real-time voice AI agent with memory and MCP tools (LiveKit Agents, Gemini Realtime, mem0).
+- **Code2Video AI Studio** ([Code](https://github.com/Mansi09022004/code2video-ai-studio)): turns code into explanation videos (Flask, Groq LLaMA 3.3 70B, MoviePy). Co-authored a paper published in Springer LNNS.
+- **BetterBite** ([Live](https://betterbite-store.vercel.app) · [Code](https://github.com/Mansi09022004/BetterBite)): D2C protein snacks store with a RAG support chatbot (React, TypeScript, Supabase pgvector, Razorpay).
 
 ## Stack
 
